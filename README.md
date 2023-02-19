@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiba Ramteke</h1>
 <h3 align="center">I am MSIS Graduate student from Northeastern University.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/shiba-ramteke-124a95155/ </h3>
 <p align="left">
 </p>
 
